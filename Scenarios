@@ -1,0 +1,71 @@
+DURATION: 4 HOURS
+
+DEVELOP SOFTWARE USING ARTIFICIAL INTELLIGENCE (AI) TOOLS/AI Agents FOR THE FOLLOWING USE STORY
+
+User Story
+
+Smart Customer Segmentation Platform
+
+As a branch operations manager at a bank, I want a simple customer segmentation tool that helps me classify customers into Platinum, Gold, and silver tiers based on their account value and transaction behaviour, so that I can prioritize relationship management and offer tailored services without needing advanced analytics.
+
+Objective
+
+To develop a basic software module that enables banking teams to segment customers using a simple value-based analysis and manage them accordingly.
+
+Customer Segmentation Logic
+
+Platinum Customers: High-value accounts with frequent transactions - require personalized service and priority support.
+
+Gold Customers: Moderate account value and activity managed with regular engagement.
+
+Silver Customers. Low-value accounts with minimal activity managed with standard services.
+
+Key Features
+
+Login Screen: "Administrator" to set rules, "Branch Manager" to see Dashboard and export data
+
+Rule Engine: Configure rules for classifying customers into Platinum/Gold/Silver tiers.
+
+Automatic Classification: System assigns tier based on defined rules.
+
+Dashboard: Displays segmented customers, their profiles, financials with filters and summary totals.
+
+Export Option: Download customer segmentation data as CSV or PDF for offline use.
+
+Deliverables
+
+Deliverables are expected to be of production-level quality, ensuring excellence in both content and look & feel.
+
+1. Functional requirements document
+
+2. Application Architecture and Architecture document
+
+3. Database design / Data Models - No JSON input of data, use any RDBMS. deliverables include logical model, physical model and ER diagram
+
+4. UI/UX/Wireframe Design
+
+5. Software code & Working Software
+
+6. Functional Test scripts in a CSV or Excel
+
+7. Traceability Matrix in CSV or Excel
+
+8. End User manual - Screens and help guide
+
+9. Al Agent "Code Quality Checker" built with an Al framework and Streamlit or Gradio; takes code and checklist as input and provide observations against each checklist item and suggestions for improvements if any
+
+Instructions
+
+Use Al tools or Build Your Own Al Agents (BYOAA) to develop the software and deliverables.
+
+Selection of Tools: Carefully evaluate and select the most suitable Al tools or frameworks for each phase of the project. If building custom Al agents, ensure they are scalable, maintainable. Additional weightage will be given if team builds their own Al agent to create the deliverables.
+
+Quality Standards: Adhere strictly to coding standards and best practices for software development. Apply consistent design patterns, code reviews, and automated testing to maintain high quality.
+
+Integration: Ensure seamless integration of components with the overall application architecture.
+
+Testing: Prepare comprehensive test cases, including both functional and non-functional scenarios.
+
+Documentation: Maintain clear and detailed documentation for all deliverables, including architecture diagrams, data models, and user manuals. Update documents regularly as changes are made
+
+User Experience: Prioritise a user-centric approach in UI/UX design. Avoid using Streamlit or Gradio for the user interface
